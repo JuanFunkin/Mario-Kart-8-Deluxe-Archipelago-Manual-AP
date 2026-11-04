@@ -1,0 +1,27 @@
+# Mario Kart 8 Deluxe - Archipelago Manual
+# Change "name" to your player name (max 16 characters).
+name: YourName
+description: Mario Kart 8 Deluxe (Manual)
+game: Manual_MarioKart8Deluxe
+requires:
+  version: 0.6.9
+
+Manual_MarioKart8Deluxe:
+  # Goal. Options:
+  #   goal - all tracks
+  #   goal - 1st place in all cups
+  #   goal - everything complete
+  goal: goal - everything complete
+
+  # Which checks to include (true / false).
+  include_tracks: true          # 32 tracks (finish any race on it)
+  include_50cc: true            # every track on 50cc
+  include_100cc: true           # every track on 100cc
+  include_150cc: true           # every track on 150cc
+  include_mirror_mode: true     # every track on Mirror Mode
+  include_200cc: true           # every track on 200cc
+  include_first_places: true    # 1st place in each cup's Grand Prix (any speed)
+
+  # General Archipelago options
+  progression_balancing: 50
+  accessibility: full

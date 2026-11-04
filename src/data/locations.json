@@ -1,0 +1,1577 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+    "data": [
+        {
+            "name": "Track - Mario Kart Stadium",
+            "category": [
+                "Tracks",
+                "Mushroom Cup"
+            ]
+        },
+        {
+            "name": "Track - Water Park",
+            "category": [
+                "Tracks",
+                "Mushroom Cup"
+            ]
+        },
+        {
+            "name": "Track - Sweet Sweet Canyon",
+            "category": [
+                "Tracks",
+                "Mushroom Cup"
+            ]
+        },
+        {
+            "name": "Track - Thwomp Ruins",
+            "category": [
+                "Tracks",
+                "Mushroom Cup"
+            ]
+        },
+        {
+            "name": "Track - Mario Circuit",
+            "category": [
+                "Tracks",
+                "Flower Cup"
+            ]
+        },
+        {
+            "name": "Track - Toad Harbor",
+            "category": [
+                "Tracks",
+                "Flower Cup"
+            ]
+        },
+        {
+            "name": "Track - Twisted Mansion",
+            "category": [
+                "Tracks",
+                "Flower Cup"
+            ]
+        },
+        {
+            "name": "Track - Shy Guy Falls",
+            "category": [
+                "Tracks",
+                "Flower Cup"
+            ]
+        },
+        {
+            "name": "Track - Sunshine Airport",
+            "category": [
+                "Tracks",
+                "Star Cup"
+            ]
+        },
+        {
+            "name": "Track - Dolphin Shoals",
+            "category": [
+                "Tracks",
+                "Star Cup"
+            ]
+        },
+        {
+            "name": "Track - Electrodrome",
+            "category": [
+                "Tracks",
+                "Star Cup"
+            ]
+        },
+        {
+            "name": "Track - Mount Wario",
+            "category": [
+                "Tracks",
+                "Star Cup"
+            ]
+        },
+        {
+            "name": "Track - Cloudtop Cruise",
+            "category": [
+                "Tracks",
+                "Special Cup"
+            ]
+        },
+        {
+            "name": "Track - Bone-Dry Dunes",
+            "category": [
+                "Tracks",
+                "Special Cup"
+            ]
+        },
+        {
+            "name": "Track - Bowser's Castle",
+            "category": [
+                "Tracks",
+                "Special Cup"
+            ]
+        },
+        {
+            "name": "Track - Rainbow Road",
+            "category": [
+                "Tracks",
+                "Special Cup"
+            ]
+        },
+        {
+            "name": "Track - Moo Moo Meadows",
+            "category": [
+                "Tracks",
+                "Shell Cup"
+            ]
+        },
+        {
+            "name": "Track - GBA Mario Circuit",
+            "category": [
+                "Tracks",
+                "Shell Cup"
+            ]
+        },
+        {
+            "name": "Track - Cheep Cheep Beach",
+            "category": [
+                "Tracks",
+                "Shell Cup"
+            ]
+        },
+        {
+            "name": "Track - Toad's Turnpike",
+            "category": [
+                "Tracks",
+                "Shell Cup"
+            ]
+        },
+        {
+            "name": "Track - Dry Dry Desert",
+            "category": [
+                "Tracks",
+                "Banana Cup"
+            ]
+        },
+        {
+            "name": "Track - Donut Plains 3",
+            "category": [
+                "Tracks",
+                "Banana Cup"
+            ]
+        },
+        {
+            "name": "Track - Royal Raceway",
+            "category": [
+                "Tracks",
+                "Banana Cup"
+            ]
+        },
+        {
+            "name": "Track - DK Jungle",
+            "category": [
+                "Tracks",
+                "Banana Cup"
+            ]
+        },
+        {
+            "name": "Track - Wario Stadium",
+            "category": [
+                "Tracks",
+                "Leaf Cup"
+            ]
+        },
+        {
+            "name": "Track - Sherbet Land",
+            "category": [
+                "Tracks",
+                "Leaf Cup"
+            ]
+        },
+        {
+            "name": "Track - Music Park",
+            "category": [
+                "Tracks",
+                "Leaf Cup"
+            ]
+        },
+        {
+            "name": "Track - Yoshi Valley",
+            "category": [
+                "Tracks",
+                "Leaf Cup"
+            ]
+        },
+        {
+            "name": "Track - Tick-Tock Clock",
+            "category": [
+                "Tracks",
+                "Lightning Cup"
+            ]
+        },
+        {
+            "name": "Track - Piranha Plant Slide",
+            "category": [
+                "Tracks",
+                "Lightning Cup"
+            ]
+        },
+        {
+            "name": "Track - Grumble Volcano",
+            "category": [
+                "Tracks",
+                "Lightning Cup"
+            ]
+        },
+        {
+            "name": "Track - N64 Rainbow Road",
+            "category": [
+                "Tracks",
+                "Lightning Cup"
+            ]
+        },
+        {
+            "name": "Mario Kart Stadium - Complete on 50cc",
+            "category": [
+                "Speeds",
+                "50cc",
+                "Mushroom Cup"
+            ]
+        },
+        {
+            "name": "Mario Kart Stadium - Complete on 100cc",
+            "category": [
+                "Speeds",
+                "100cc",
+                "Mushroom Cup"
+            ]
+        },
+        {
+            "name": "Mario Kart Stadium - Complete on 150cc",
+            "category": [
+                "Speeds",
+                "150cc",
+                "Mushroom Cup"
+            ]
+        },
+        {
+            "name": "Mario Kart Stadium - Complete on Mirror Mode",
+            "category": [
+                "Speeds",
+                "Mirror Mode",
+                "Mushroom Cup"
+            ]
+        },
+        {
+            "name": "Mario Kart Stadium - Complete on 200cc",
+            "category": [
+                "Speeds",
+                "200cc",
+                "Mushroom Cup"
+            ]
+        },
+        {
+            "name": "Water Park - Complete on 50cc",
+            "category": [
+                "Speeds",
+                "50cc",
+                "Mushroom Cup"
+            ]
+        },
+        {
+            "name": "Water Park - Complete on 100cc",
+            "category": [
+                "Speeds",
+                "100cc",
+                "Mushroom Cup"
+            ]
+        },
+        {
+            "name": "Water Park - Complete on 150cc",
+            "category": [
+                "Speeds",
+                "150cc",
+                "Mushroom Cup"
+            ]
+        },
+        {
+            "name": "Water Park - Complete on Mirror Mode",
+            "category": [
+                "Speeds",
+                "Mirror Mode",
+                "Mushroom Cup"
+            ]
+        },
+        {
+            "name": "Water Park - Complete on 200cc",
+            "category": [
+                "Speeds",
+                "200cc",
+                "Mushroom Cup"
+            ]
+        },
+        {
+            "name": "Sweet Sweet Canyon - Complete on 50cc",
+            "category": [
+                "Speeds",
+                "50cc",
+                "Mushroom Cup"
+            ]
+        },
+        {
+            "name": "Sweet Sweet Canyon - Complete on 100cc",
+            "category": [
+                "Speeds",
+                "100cc",
+                "Mushroom Cup"
+            ]
+        },
+        {
+            "name": "Sweet Sweet Canyon - Complete on 150cc",
+            "category": [
+                "Speeds",
+                "150cc",
+                "Mushroom Cup"
+            ]
+        },
+        {
+            "name": "Sweet Sweet Canyon - Complete on Mirror Mode",
+            "category": [
+                "Speeds",
+                "Mirror Mode",
+                "Mushroom Cup"
+            ]
+        },
+        {
+            "name": "Sweet Sweet Canyon - Complete on 200cc",
+            "category": [
+                "Speeds",
+                "200cc",
+                "Mushroom Cup"
+            ]
+        },
+        {
+            "name": "Thwomp Ruins - Complete on 50cc",
+            "category": [
+                "Speeds",
+                "50cc",
+                "Mushroom Cup"
+            ]
+        },
+        {
+            "name": "Thwomp Ruins - Complete on 100cc",
+            "category": [
+                "Speeds",
+                "100cc",
+                "Mushroom Cup"
+            ]
+        },
+        {
+            "name": "Thwomp Ruins - Complete on 150cc",
+            "category": [
+                "Speeds",
+                "150cc",
+                "Mushroom Cup"
+            ]
+        },
+        {
+            "name": "Thwomp Ruins - Complete on Mirror Mode",
+            "category": [
+                "Speeds",
+                "Mirror Mode",
+                "Mushroom Cup"
+            ]
+        },
+        {
+            "name": "Thwomp Ruins - Complete on 200cc",
+            "category": [
+                "Speeds",
+                "200cc",
+                "Mushroom Cup"
+            ]
+        },
+        {
+            "name": "Mario Circuit - Complete on 50cc",
+            "category": [
+                "Speeds",
+                "50cc",
+                "Flower Cup"
+            ]
+        },
+        {
+            "name": "Mario Circuit - Complete on 100cc",
+            "category": [
+                "Speeds",
+                "100cc",
+                "Flower Cup"
+            ]
+        },
+        {
+            "name": "Mario Circuit - Complete on 150cc",
+            "category": [
+                "Speeds",
+                "150cc",
+                "Flower Cup"
+            ]
+        },
+        {
+            "name": "Mario Circuit - Complete on Mirror Mode",
+            "category": [
+                "Speeds",
+                "Mirror Mode",
+                "Flower Cup"
+            ]
+        },
+        {
+            "name": "Mario Circuit - Complete on 200cc",
+            "category": [
+                "Speeds",
+                "200cc",
+                "Flower Cup"
+            ]
+        },
+        {
+            "name": "Toad Harbor - Complete on 50cc",
+            "category": [
+                "Speeds",
+                "50cc",
+                "Flower Cup"
+            ]
+        },
+        {
+            "name": "Toad Harbor - Complete on 100cc",
+            "category": [
+                "Speeds",
+                "100cc",
+                "Flower Cup"
+            ]
+        },
+        {
+            "name": "Toad Harbor - Complete on 150cc",
+            "category": [
+                "Speeds",
+                "150cc",
+                "Flower Cup"
+            ]
+        },
+        {
+            "name": "Toad Harbor - Complete on Mirror Mode",
+            "category": [
+                "Speeds",
+                "Mirror Mode",
+                "Flower Cup"
+            ]
+        },
+        {
+            "name": "Toad Harbor - Complete on 200cc",
+            "category": [
+                "Speeds",
+                "200cc",
+                "Flower Cup"
+            ]
+        },
+        {
+            "name": "Twisted Mansion - Complete on 50cc",
+            "category": [
+                "Speeds",
+                "50cc",
+                "Flower Cup"
+            ]
+        },
+        {
+            "name": "Twisted Mansion - Complete on 100cc",
+            "category": [
+                "Speeds",
+                "100cc",
+                "Flower Cup"
+            ]
+        },
+        {
+            "name": "Twisted Mansion - Complete on 150cc",
+            "category": [
+                "Speeds",
+                "150cc",
+                "Flower Cup"
+            ]
+        },
+        {
+            "name": "Twisted Mansion - Complete on Mirror Mode",
+            "category": [
+                "Speeds",
+                "Mirror Mode",
+                "Flower Cup"
+            ]
+        },
+        {
+            "name": "Twisted Mansion - Complete on 200cc",
+            "category": [
+                "Speeds",
+                "200cc",
+                "Flower Cup"
+            ]
+        },
+        {
+            "name": "Shy Guy Falls - Complete on 50cc",
+            "category": [
+                "Speeds",
+                "50cc",
+                "Flower Cup"
+            ]
+        },
+        {
+            "name": "Shy Guy Falls - Complete on 100cc",
+            "category": [
+                "Speeds",
+                "100cc",
+                "Flower Cup"
+            ]
+        },
+        {
+            "name": "Shy Guy Falls - Complete on 150cc",
+            "category": [
+                "Speeds",
+                "150cc",
+                "Flower Cup"
+            ]
+        },
+        {
+            "name": "Shy Guy Falls - Complete on Mirror Mode",
+            "category": [
+                "Speeds",
+                "Mirror Mode",
+                "Flower Cup"
+            ]
+        },
+        {
+            "name": "Shy Guy Falls - Complete on 200cc",
+            "category": [
+                "Speeds",
+                "200cc",
+                "Flower Cup"
+            ]
+        },
+        {
+            "name": "Sunshine Airport - Complete on 50cc",
+            "category": [
+                "Speeds",
+                "50cc",
+                "Star Cup"
+            ]
+        },
+        {
+            "name": "Sunshine Airport - Complete on 100cc",
+            "category": [
+                "Speeds",
+                "100cc",
+                "Star Cup"
+            ]
+        },
+        {
+            "name": "Sunshine Airport - Complete on 150cc",
+            "category": [
+                "Speeds",
+                "150cc",
+                "Star Cup"
+            ]
+        },
+        {
+            "name": "Sunshine Airport - Complete on Mirror Mode",
+            "category": [
+                "Speeds",
+                "Mirror Mode",
+                "Star Cup"
+            ]
+        },
+        {
+            "name": "Sunshine Airport - Complete on 200cc",
+            "category": [
+                "Speeds",
+                "200cc",
+                "Star Cup"
+            ]
+        },
+        {
+            "name": "Dolphin Shoals - Complete on 50cc",
+            "category": [
+                "Speeds",
+                "50cc",
+                "Star Cup"
+            ]
+        },
+        {
+            "name": "Dolphin Shoals - Complete on 100cc",
+            "category": [
+                "Speeds",
+                "100cc",
+                "Star Cup"
+            ]
+        },
+        {
+            "name": "Dolphin Shoals - Complete on 150cc",
+            "category": [
+                "Speeds",
+                "150cc",
+                "Star Cup"
+            ]
+        },
+        {
+            "name": "Dolphin Shoals - Complete on Mirror Mode",
+            "category": [
+                "Speeds",
+                "Mirror Mode",
+                "Star Cup"
+            ]
+        },
+        {
+            "name": "Dolphin Shoals - Complete on 200cc",
+            "category": [
+                "Speeds",
+                "200cc",
+                "Star Cup"
+            ]
+        },
+        {
+            "name": "Electrodrome - Complete on 50cc",
+            "category": [
+                "Speeds",
+                "50cc",
+                "Star Cup"
+            ]
+        },
+        {
+            "name": "Electrodrome - Complete on 100cc",
+            "category": [
+                "Speeds",
+                "100cc",
+                "Star Cup"
+            ]
+        },
+        {
+            "name": "Electrodrome - Complete on 150cc",
+            "category": [
+                "Speeds",
+                "150cc",
+                "Star Cup"
+            ]
+        },
+        {
+            "name": "Electrodrome - Complete on Mirror Mode",
+            "category": [
+                "Speeds",
+                "Mirror Mode",
+                "Star Cup"
+            ]
+        },
+        {
+            "name": "Electrodrome - Complete on 200cc",
+            "category": [
+                "Speeds",
+                "200cc",
+                "Star Cup"
+            ]
+        },
+        {
+            "name": "Mount Wario - Complete on 50cc",
+            "category": [
+                "Speeds",
+                "50cc",
+                "Star Cup"
+            ]
+        },
+        {
+            "name": "Mount Wario - Complete on 100cc",
+            "category": [
+                "Speeds",
+                "100cc",
+                "Star Cup"
+            ]
+        },
+        {
+            "name": "Mount Wario - Complete on 150cc",
+            "category": [
+                "Speeds",
+                "150cc",
+                "Star Cup"
+            ]
+        },
+        {
+            "name": "Mount Wario - Complete on Mirror Mode",
+            "category": [
+                "Speeds",
+                "Mirror Mode",
+                "Star Cup"
+            ]
+        },
+        {
+            "name": "Mount Wario - Complete on 200cc",
+            "category": [
+                "Speeds",
+                "200cc",
+                "Star Cup"
+            ]
+        },
+        {
+            "name": "Cloudtop Cruise - Complete on 50cc",
+            "category": [
+                "Speeds",
+                "50cc",
+                "Special Cup"
+            ]
+        },
+        {
+            "name": "Cloudtop Cruise - Complete on 100cc",
+            "category": [
+                "Speeds",
+                "100cc",
+                "Special Cup"
+            ]
+        },
+        {
+            "name": "Cloudtop Cruise - Complete on 150cc",
+            "category": [
+                "Speeds",
+                "150cc",
+                "Special Cup"
+            ]
+        },
+        {
+            "name": "Cloudtop Cruise - Complete on Mirror Mode",
+            "category": [
+                "Speeds",
+                "Mirror Mode",
+                "Special Cup"
+            ]
+        },
+        {
+            "name": "Cloudtop Cruise - Complete on 200cc",
+            "category": [
+                "Speeds",
+                "200cc",
+                "Special Cup"
+            ]
+        },
+        {
+            "name": "Bone-Dry Dunes - Complete on 50cc",
+            "category": [
+                "Speeds",
+                "50cc",
+                "Special Cup"
+            ]
+        },
+        {
+            "name": "Bone-Dry Dunes - Complete on 100cc",
+            "category": [
+                "Speeds",
+                "100cc",
+                "Special Cup"
+            ]
+        },
+        {
+            "name": "Bone-Dry Dunes - Complete on 150cc",
+            "category": [
+                "Speeds",
+                "150cc",
+                "Special Cup"
+            ]
+        },
+        {
+            "name": "Bone-Dry Dunes - Complete on Mirror Mode",
+            "category": [
+                "Speeds",
+                "Mirror Mode",
+                "Special Cup"
+            ]
+        },
+        {
+            "name": "Bone-Dry Dunes - Complete on 200cc",
+            "category": [
+                "Speeds",
+                "200cc",
+                "Special Cup"
+            ]
+        },
+        {
+            "name": "Bowser's Castle - Complete on 50cc",
+            "category": [
+                "Speeds",
+                "50cc",
+                "Special Cup"
+            ]
+        },
+        {
+            "name": "Bowser's Castle - Complete on 100cc",
+            "category": [
+                "Speeds",
+                "100cc",
+                "Special Cup"
+            ]
+        },
+        {
+            "name": "Bowser's Castle - Complete on 150cc",
+            "category": [
+                "Speeds",
+                "150cc",
+                "Special Cup"
+            ]
+        },
+        {
+            "name": "Bowser's Castle - Complete on Mirror Mode",
+            "category": [
+                "Speeds",
+                "Mirror Mode",
+                "Special Cup"
+            ]
+        },
+        {
+            "name": "Bowser's Castle - Complete on 200cc",
+            "category": [
+                "Speeds",
+                "200cc",
+                "Special Cup"
+            ]
+        },
+        {
+            "name": "Rainbow Road - Complete on 50cc",
+            "category": [
+                "Speeds",
+                "50cc",
+                "Special Cup"
+            ]
+        },
+        {
+            "name": "Rainbow Road - Complete on 100cc",
+            "category": [
+                "Speeds",
+                "100cc",
+                "Special Cup"
+            ]
+        },
+        {
+            "name": "Rainbow Road - Complete on 150cc",
+            "category": [
+                "Speeds",
+                "150cc",
+                "Special Cup"
+            ]
+        },
+        {
+            "name": "Rainbow Road - Complete on Mirror Mode",
+            "category": [
+                "Speeds",
+                "Mirror Mode",
+                "Special Cup"
+            ]
+        },
+        {
+            "name": "Rainbow Road - Complete on 200cc",
+            "category": [
+                "Speeds",
+                "200cc",
+                "Special Cup"
+            ]
+        },
+        {
+            "name": "Moo Moo Meadows - Complete on 50cc",
+            "category": [
+                "Speeds",
+                "50cc",
+                "Shell Cup"
+            ]
+        },
+        {
+            "name": "Moo Moo Meadows - Complete on 100cc",
+            "category": [
+                "Speeds",
+                "100cc",
+                "Shell Cup"
+            ]
+        },
+        {
+            "name": "Moo Moo Meadows - Complete on 150cc",
+            "category": [
+                "Speeds",
+                "150cc",
+                "Shell Cup"
+            ]
+        },
+        {
+            "name": "Moo Moo Meadows - Complete on Mirror Mode",
+            "category": [
+                "Speeds",
+                "Mirror Mode",
+                "Shell Cup"
+            ]
+        },
+        {
+            "name": "Moo Moo Meadows - Complete on 200cc",
+            "category": [
+                "Speeds",
+                "200cc",
+                "Shell Cup"
+            ]
+        },
+        {
+            "name": "GBA Mario Circuit - Complete on 50cc",
+            "category": [
+                "Speeds",
+                "50cc",
+                "Shell Cup"
+            ]
+        },
+        {
+            "name": "GBA Mario Circuit - Complete on 100cc",
+            "category": [
+                "Speeds",
+                "100cc",
+                "Shell Cup"
+            ]
+        },
+        {
+            "name": "GBA Mario Circuit - Complete on 150cc",
+            "category": [
+                "Speeds",
+                "150cc",
+                "Shell Cup"
+            ]
+        },
+        {
+            "name": "GBA Mario Circuit - Complete on Mirror Mode",
+            "category": [
+                "Speeds",
+                "Mirror Mode",
+                "Shell Cup"
+            ]
+        },
+        {
+            "name": "GBA Mario Circuit - Complete on 200cc",
+            "category": [
+                "Speeds",
+                "200cc",
+                "Shell Cup"
+            ]
+        },
+        {
+            "name": "Cheep Cheep Beach - Complete on 50cc",
+            "category": [
+                "Speeds",
+                "50cc",
+                "Shell Cup"
+            ]
+        },
+        {
+            "name": "Cheep Cheep Beach - Complete on 100cc",
+            "category": [
+                "Speeds",
+                "100cc",
+                "Shell Cup"
+            ]
+        },
+        {
+            "name": "Cheep Cheep Beach - Complete on 150cc",
+            "category": [
+                "Speeds",
+                "150cc",
+                "Shell Cup"
+            ]
+        },
+        {
+            "name": "Cheep Cheep Beach - Complete on Mirror Mode",
+            "category": [
+                "Speeds",
+                "Mirror Mode",
+                "Shell Cup"
+            ]
+        },
+        {
+            "name": "Cheep Cheep Beach - Complete on 200cc",
+            "category": [
+                "Speeds",
+                "200cc",
+                "Shell Cup"
+            ]
+        },
+        {
+            "name": "Toad's Turnpike - Complete on 50cc",
+            "category": [
+                "Speeds",
+                "50cc",
+                "Shell Cup"
+            ]
+        },
+        {
+            "name": "Toad's Turnpike - Complete on 100cc",
+            "category": [
+                "Speeds",
+                "100cc",
+                "Shell Cup"
+            ]
+        },
+        {
+            "name": "Toad's Turnpike - Complete on 150cc",
+            "category": [
+                "Speeds",
+                "150cc",
+                "Shell Cup"
+            ]
+        },
+        {
+            "name": "Toad's Turnpike - Complete on Mirror Mode",
+            "category": [
+                "Speeds",
+                "Mirror Mode",
+                "Shell Cup"
+            ]
+        },
+        {
+            "name": "Toad's Turnpike - Complete on 200cc",
+            "category": [
+                "Speeds",
+                "200cc",
+                "Shell Cup"
+            ]
+        },
+        {
+            "name": "Dry Dry Desert - Complete on 50cc",
+            "category": [
+                "Speeds",
+                "50cc",
+                "Banana Cup"
+            ]
+        },
+        {
+            "name": "Dry Dry Desert - Complete on 100cc",
+            "category": [
+                "Speeds",
+                "100cc",
+                "Banana Cup"
+            ]
+        },
+        {
+            "name": "Dry Dry Desert - Complete on 150cc",
+            "category": [
+                "Speeds",
+                "150cc",
+                "Banana Cup"
+            ]
+        },
+        {
+            "name": "Dry Dry Desert - Complete on Mirror Mode",
+            "category": [
+                "Speeds",
+                "Mirror Mode",
+                "Banana Cup"
+            ]
+        },
+        {
+            "name": "Dry Dry Desert - Complete on 200cc",
+            "category": [
+                "Speeds",
+                "200cc",
+                "Banana Cup"
+            ]
+        },
+        {
+            "name": "Donut Plains 3 - Complete on 50cc",
+            "category": [
+                "Speeds",
+                "50cc",
+                "Banana Cup"
+            ]
+        },
+        {
+            "name": "Donut Plains 3 - Complete on 100cc",
+            "category": [
+                "Speeds",
+                "100cc",
+                "Banana Cup"
+            ]
+        },
+        {
+            "name": "Donut Plains 3 - Complete on 150cc",
+            "category": [
+                "Speeds",
+                "150cc",
+                "Banana Cup"
+            ]
+        },
+        {
+            "name": "Donut Plains 3 - Complete on Mirror Mode",
+            "category": [
+                "Speeds",
+                "Mirror Mode",
+                "Banana Cup"
+            ]
+        },
+        {
+            "name": "Donut Plains 3 - Complete on 200cc",
+            "category": [
+                "Speeds",
+                "200cc",
+                "Banana Cup"
+            ]
+        },
+        {
+            "name": "Royal Raceway - Complete on 50cc",
+            "category": [
+                "Speeds",
+                "50cc",
+                "Banana Cup"
+            ]
+        },
+        {
+            "name": "Royal Raceway - Complete on 100cc",
+            "category": [
+                "Speeds",
+                "100cc",
+                "Banana Cup"
+            ]
+        },
+        {
+            "name": "Royal Raceway - Complete on 150cc",
+            "category": [
+                "Speeds",
+                "150cc",
+                "Banana Cup"
+            ]
+        },
+        {
+            "name": "Royal Raceway - Complete on Mirror Mode",
+            "category": [
+                "Speeds",
+                "Mirror Mode",
+                "Banana Cup"
+            ]
+        },
+        {
+            "name": "Royal Raceway - Complete on 200cc",
+            "category": [
+                "Speeds",
+                "200cc",
+                "Banana Cup"
+            ]
+        },
+        {
+            "name": "DK Jungle - Complete on 50cc",
+            "category": [
+                "Speeds",
+                "50cc",
+                "Banana Cup"
+            ]
+        },
+        {
+            "name": "DK Jungle - Complete on 100cc",
+            "category": [
+                "Speeds",
+                "100cc",
+                "Banana Cup"
+            ]
+        },
+        {
+            "name": "DK Jungle - Complete on 150cc",
+            "category": [
+                "Speeds",
+                "150cc",
+                "Banana Cup"
+            ]
+        },
+        {
+            "name": "DK Jungle - Complete on Mirror Mode",
+            "category": [
+                "Speeds",
+                "Mirror Mode",
+                "Banana Cup"
+            ]
+        },
+        {
+            "name": "DK Jungle - Complete on 200cc",
+            "category": [
+                "Speeds",
+                "200cc",
+                "Banana Cup"
+            ]
+        },
+        {
+            "name": "Wario Stadium - Complete on 50cc",
+            "category": [
+                "Speeds",
+                "50cc",
+                "Leaf Cup"
+            ]
+        },
+        {
+            "name": "Wario Stadium - Complete on 100cc",
+            "category": [
+                "Speeds",
+                "100cc",
+                "Leaf Cup"
+            ]
+        },
+        {
+            "name": "Wario Stadium - Complete on 150cc",
+            "category": [
+                "Speeds",
+                "150cc",
+                "Leaf Cup"
+            ]
+        },
+        {
+            "name": "Wario Stadium - Complete on Mirror Mode",
+            "category": [
+                "Speeds",
+                "Mirror Mode",
+                "Leaf Cup"
+            ]
+        },
+        {
+            "name": "Wario Stadium - Complete on 200cc",
+            "category": [
+                "Speeds",
+                "200cc",
+                "Leaf Cup"
+            ]
+        },
+        {
+            "name": "Sherbet Land - Complete on 50cc",
+            "category": [
+                "Speeds",
+                "50cc",
+                "Leaf Cup"
+            ]
+        },
+        {
+            "name": "Sherbet Land - Complete on 100cc",
+            "category": [
+                "Speeds",
+                "100cc",
+                "Leaf Cup"
+            ]
+        },
+        {
+            "name": "Sherbet Land - Complete on 150cc",
+            "category": [
+                "Speeds",
+                "150cc",
+                "Leaf Cup"
+            ]
+        },
+        {
+            "name": "Sherbet Land - Complete on Mirror Mode",
+            "category": [
+                "Speeds",
+                "Mirror Mode",
+                "Leaf Cup"
+            ]
+        },
+        {
+            "name": "Sherbet Land - Complete on 200cc",
+            "category": [
+                "Speeds",
+                "200cc",
+                "Leaf Cup"
+            ]
+        },
+        {
+            "name": "Music Park - Complete on 50cc",
+            "category": [
+                "Speeds",
+                "50cc",
+                "Leaf Cup"
+            ]
+        },
+        {
+            "name": "Music Park - Complete on 100cc",
+            "category": [
+                "Speeds",
+                "100cc",
+                "Leaf Cup"
+            ]
+        },
+        {
+            "name": "Music Park - Complete on 150cc",
+            "category": [
+                "Speeds",
+                "150cc",
+                "Leaf Cup"
+            ]
+        },
+        {
+            "name": "Music Park - Complete on Mirror Mode",
+            "category": [
+                "Speeds",
+                "Mirror Mode",
+                "Leaf Cup"
+            ]
+        },
+        {
+            "name": "Music Park - Complete on 200cc",
+            "category": [
+                "Speeds",
+                "200cc",
+                "Leaf Cup"
+            ]
+        },
+        {
+            "name": "Yoshi Valley - Complete on 50cc",
+            "category": [
+                "Speeds",
+                "50cc",
+                "Leaf Cup"
+            ]
+        },
+        {
+            "name": "Yoshi Valley - Complete on 100cc",
+            "category": [
+                "Speeds",
+                "100cc",
+                "Leaf Cup"
+            ]
+        },
+        {
+            "name": "Yoshi Valley - Complete on 150cc",
+            "category": [
+                "Speeds",
+                "150cc",
+                "Leaf Cup"
+            ]
+        },
+        {
+            "name": "Yoshi Valley - Complete on Mirror Mode",
+            "category": [
+                "Speeds",
+                "Mirror Mode",
+                "Leaf Cup"
+            ]
+        },
+        {
+            "name": "Yoshi Valley - Complete on 200cc",
+            "category": [
+                "Speeds",
+                "200cc",
+                "Leaf Cup"
+            ]
+        },
+        {
+            "name": "Tick-Tock Clock - Complete on 50cc",
+            "category": [
+                "Speeds",
+                "50cc",
+                "Lightning Cup"
+            ]
+        },
+        {
+            "name": "Tick-Tock Clock - Complete on 100cc",
+            "category": [
+                "Speeds",
+                "100cc",
+                "Lightning Cup"
+            ]
+        },
+        {
+            "name": "Tick-Tock Clock - Complete on 150cc",
+            "category": [
+                "Speeds",
+                "150cc",
+                "Lightning Cup"
+            ]
+        },
+        {
+            "name": "Tick-Tock Clock - Complete on Mirror Mode",
+            "category": [
+                "Speeds",
+                "Mirror Mode",
+                "Lightning Cup"
+            ]
+        },
+        {
+            "name": "Tick-Tock Clock - Complete on 200cc",
+            "category": [
+                "Speeds",
+                "200cc",
+                "Lightning Cup"
+            ]
+        },
+        {
+            "name": "Piranha Plant Slide - Complete on 50cc",
+            "category": [
+                "Speeds",
+                "50cc",
+                "Lightning Cup"
+            ]
+        },
+        {
+            "name": "Piranha Plant Slide - Complete on 100cc",
+            "category": [
+                "Speeds",
+                "100cc",
+                "Lightning Cup"
+            ]
+        },
+        {
+            "name": "Piranha Plant Slide - Complete on 150cc",
+            "category": [
+                "Speeds",
+                "150cc",
+                "Lightning Cup"
+            ]
+        },
+        {
+            "name": "Piranha Plant Slide - Complete on Mirror Mode",
+            "category": [
+                "Speeds",
+                "Mirror Mode",
+                "Lightning Cup"
+            ]
+        },
+        {
+            "name": "Piranha Plant Slide - Complete on 200cc",
+            "category": [
+                "Speeds",
+                "200cc",
+                "Lightning Cup"
+            ]
+        },
+        {
+            "name": "Grumble Volcano - Complete on 50cc",
+            "category": [
+                "Speeds",
+                "50cc",
+                "Lightning Cup"
+            ]
+        },
+        {
+            "name": "Grumble Volcano - Complete on 100cc",
+            "category": [
+                "Speeds",
+                "100cc",
+                "Lightning Cup"
+            ]
+        },
+        {
+            "name": "Grumble Volcano - Complete on 150cc",
+            "category": [
+                "Speeds",
+                "150cc",
+                "Lightning Cup"
+            ]
+        },
+        {
+            "name": "Grumble Volcano - Complete on Mirror Mode",
+            "category": [
+                "Speeds",
+                "Mirror Mode",
+                "Lightning Cup"
+            ]
+        },
+        {
+            "name": "Grumble Volcano - Complete on 200cc",
+            "category": [
+                "Speeds",
+                "200cc",
+                "Lightning Cup"
+            ]
+        },
+        {
+            "name": "N64 Rainbow Road - Complete on 50cc",
+            "category": [
+                "Speeds",
+                "50cc",
+                "Lightning Cup"
+            ]
+        },
+        {
+            "name": "N64 Rainbow Road - Complete on 100cc",
+            "category": [
+                "Speeds",
+                "100cc",
+                "Lightning Cup"
+            ]
+        },
+        {
+            "name": "N64 Rainbow Road - Complete on 150cc",
+            "category": [
+                "Speeds",
+                "150cc",
+                "Lightning Cup"
+            ]
+        },
+        {
+            "name": "N64 Rainbow Road - Complete on Mirror Mode",
+            "category": [
+                "Speeds",
+                "Mirror Mode",
+                "Lightning Cup"
+            ]
+        },
+        {
+            "name": "N64 Rainbow Road - Complete on 200cc",
+            "category": [
+                "Speeds",
+                "200cc",
+                "Lightning Cup"
+            ]
+        },
+        {
+            "name": "Mushroom Cup - 1st Place (any speed)",
+            "category": [
+                "1st Place",
+                "Mushroom Cup"
+            ]
+        },
+        {
+            "name": "Flower Cup - 1st Place (any speed)",
+            "category": [
+                "1st Place",
+                "Flower Cup"
+            ]
+        },
+        {
+            "name": "Star Cup - 1st Place (any speed)",
+            "category": [
+                "1st Place",
+                "Star Cup"
+            ]
+        },
+        {
+            "name": "Special Cup - 1st Place (any speed)",
+            "category": [
+                "1st Place",
+                "Special Cup"
+            ]
+        },
+        {
+            "name": "Shell Cup - 1st Place (any speed)",
+            "category": [
+                "1st Place",
+                "Shell Cup"
+            ]
+        },
+        {
+            "name": "Banana Cup - 1st Place (any speed)",
+            "category": [
+                "1st Place",
+                "Banana Cup"
+            ]
+        },
+        {
+            "name": "Leaf Cup - 1st Place (any speed)",
+            "category": [
+                "1st Place",
+                "Leaf Cup"
+            ]
+        },
+        {
+            "name": "Lightning Cup - 1st Place (any speed)",
+            "category": [
+                "1st Place",
+                "Lightning Cup"
+            ]
+        },
+        {
+            "name": "Goal - All Tracks",
+            "victory": true
+        },
+        {
+            "name": "Goal - 1st Place in All Cups",
+            "victory": true
+        },
+        {
+            "name": "Goal - Everything Complete",
+            "victory": true
+        }
+    ]
+}

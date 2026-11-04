@@ -1,0 +1,50 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.categories.schema.json",
+    "Mushroom Cup": {},
+    "Flower Cup": {},
+    "Star Cup": {},
+    "Special Cup": {},
+    "Shell Cup": {},
+    "Banana Cup": {},
+    "Leaf Cup": {},
+    "Lightning Cup": {},
+    "Tracks": {
+        "yaml_option": [
+            "include_tracks"
+        ]
+    },
+    "50cc": {
+        "yaml_option": [
+            "include_50cc"
+        ]
+    },
+    "100cc": {
+        "yaml_option": [
+            "include_100cc"
+        ]
+    },
+    "150cc": {
+        "yaml_option": [
+            "include_150cc"
+        ]
+    },
+    "Mirror Mode": {
+        "yaml_option": [
+            "include_mirror_mode"
+        ]
+    },
+    "200cc": {
+        "yaml_option": [
+            "include_200cc"
+        ]
+    },
+    "1st Place": {
+        "yaml_option": [
+            "include_first_places"
+        ]
+    },
+    "Speeds": {},
+    "Items": {
+        "hidden": true
+    }
+}

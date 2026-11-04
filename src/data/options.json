@@ -1,0 +1,53 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+    "core": {
+        "goal": {
+            "display_name": "Goal",
+            "description": "What you mark at the end to finish your game in the multiworld."
+        }
+    },
+    "user": {
+        "include_tracks": {
+            "type": "Toggle",
+            "default": true,
+            "description": "One check for each of the 32 base-game tracks, for finishing a race on it on any speed.",
+            "group": "Included Checks"
+        },
+        "include_50cc": {
+            "type": "Toggle",
+            "default": true,
+            "description": "One check per track for finishing it on 50cc.",
+            "group": "Included Checks"
+        },
+        "include_100cc": {
+            "type": "Toggle",
+            "default": true,
+            "description": "One check per track for finishing it on 100cc.",
+            "group": "Included Checks"
+        },
+        "include_150cc": {
+            "type": "Toggle",
+            "default": true,
+            "description": "One check per track for finishing it on 150cc.",
+            "group": "Included Checks"
+        },
+        "include_mirror_mode": {
+            "type": "Toggle",
+            "default": true,
+            "description": "One check per track for finishing it on Mirror Mode. Turn off if you have not unlocked it yet.",
+            "group": "Included Checks"
+        },
+        "include_200cc": {
+            "type": "Toggle",
+            "default": true,
+            "description": "One check per track for finishing it on 200cc. Turn off if you have not unlocked it yet.",
+            "group": "Included Checks"
+        },
+        "include_first_places": {
+            "type": "Toggle",
+            "default": true,
+            "description": "One check per cup for finishing 1st in the Grand Prix, on any speed.",
+            "group": "Included Checks"
+        }
+    }
+}

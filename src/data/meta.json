@@ -1,0 +1,32 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.meta.schema.json",
+    "docs": {
+        "apworld_description": [
+            "Mario Kart 8 Deluxe (base game, no DLC) for Archipelago in Manual mode.",
+            "You mark checks yourself: tracks finished, cups completed on each speed, and 1st places.",
+            "The game never needs to receive items, so you can play without restrictions."
+        ],
+        "web": {
+            "theme": "grass",
+            "tutorials": [
+                {
+                    "name": "Setup Guide",
+                    "description": "How to install and play Mario Kart 8 Deluxe in Manual.",
+                    "language": "English",
+                    "file_name": "setup_en.md",
+                    "link": "setup/en",
+                    "authors": [
+                        "Unknown"
+                    ]
+                }
+            ],
+            "options_presets": {
+                "Basics Only": {
+                    "include_mirror_mode": false,
+                    "include_200cc": false
+                },
+                "Everything": {}
+            }
+        }
+    }
+}

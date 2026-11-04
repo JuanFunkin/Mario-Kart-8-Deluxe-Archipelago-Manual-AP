@@ -1,0 +1,37 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+    "data": [
+        {
+            "name": "Mushroom",
+            "count": 6,
+            "progression": false,
+            "category": [
+                "Items"
+            ]
+        },
+        {
+            "name": "Green Shell",
+            "count": 6,
+            "progression": false,
+            "category": [
+                "Items"
+            ]
+        },
+        {
+            "name": "Banana",
+            "count": 6,
+            "progression": false,
+            "category": [
+                "Items"
+            ]
+        },
+        {
+            "name": "Super Star",
+            "count": 6,
+            "progression": false,
+            "category": [
+                "Items"
+            ]
+        }
+    ]
+}
