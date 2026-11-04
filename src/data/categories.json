@@ -43,8 +43,5 @@
             "include_first_places"
         ]
     },
-    "Speeds": {},
-    "Items": {
-        "hidden": true
-    }
+    "Speeds": {}
 }

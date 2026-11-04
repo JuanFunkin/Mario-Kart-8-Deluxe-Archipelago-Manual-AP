@@ -11,7 +11,7 @@ You play Mario Kart on your Switch as normal and mark checks in the Manual Clien
 - Each speed (and the track and 1st-place checks) can be turned on or off in your YAML.
 - Three goals to choose from.
 - No DLC content.
-- No required items: received items are filler, so you are never forced to restrict how you play.
+- You receive nothing useful: the only item is a `Nothing` filler, so you never have to restrict how you play.
 
 ## Installation
 
@@ -25,7 +25,7 @@ You play Mario Kart on your Switch as normal and mark checks in the Manual Clien
 
 This is an honor-system world. Archipelago places other players' items in your checks. When you complete something in the game, you mark the matching check in the Manual Client and the item it held is sent to its owner. When you finish your chosen goal, you mark the goal location and your game is done.
 
-You do not receive anything that the game needs, so every check is available from the start. The items you receive are filler and have no effect.
+You do not receive anything that the game needs, so every check is available from the start. The only item you can receive is a `Nothing` filler, which has no effect.
 
 ## YAML options
 
@@ -158,7 +158,7 @@ Plus one cup check: `Lightning Cup - 1st Place (any speed)`
 
 ## Items
 
-There are no progression items. You receive Coins (the filler item) plus a few Mushrooms, Green Shells, Bananas and Super Stars. None of them do anything in the game.
+You receive nothing. This world only sends items to other players. Archipelago still needs a filler item in every slot, so the only item that can ever show up for you is one called `Nothing`, and it does not do anything.
 
 ## Building from source
 

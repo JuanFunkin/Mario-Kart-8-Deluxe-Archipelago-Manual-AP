@@ -6,7 +6,7 @@
 - **1st Place:** one check per cup for finishing 1st in the Grand Prix, on any speed.
 
 ## What items do I receive?
-None that the game needs. Received items are filler.
+Nothing. This world only sends items to other players. The only item that can ever show up for you is a filler called `Nothing`, which does not do anything.
 
 ## What is the goal?
 Pick one in the YAML: all tracks, 1st place in all 8 cups, or everything complete.

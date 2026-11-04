@@ -9,7 +9,7 @@ First public release of the **Mario Kart 8 Deluxe** Manual APWorld for Archipela
   - 8 cup checks (1st place in each cup's Grand Prix, any speed)
 - 3 goals: all tracks, 1st place in all cups, or everything complete.
 - YAML options to turn each check type and each speed on or off.
-- No required items, so you can play without restrictions.
+- You receive nothing: this world only sends items to other players (the only item is a `Nothing` filler).
 
 ## Install
 1. Put `manual_mariokart8deluxe.apworld` in your Archipelago `custom_worlds` folder.
