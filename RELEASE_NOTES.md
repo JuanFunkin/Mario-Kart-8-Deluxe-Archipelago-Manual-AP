@@ -17,7 +17,7 @@ First public release of the **Mario Kart 8 Deluxe** Manual APWorld for Archipela
 3. Connect with Manual Client from the Archipelago Launcher.
 
 ## Requirements
-Archipelago 0.6.9 or newer.
+Archipelago 0.5.0 or newer (only tested so far on a 0.6.x build).
 
 ## Assets
 - `manual_mariokart8deluxe.apworld`
